@@ -23,6 +23,5 @@ body {
     padding: .5em;
     width: 150px;
     /*Add your code here*/
-    height: fit-content;
-
+    /* height: fit-content; */
 }
