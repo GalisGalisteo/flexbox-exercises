@@ -12,6 +12,7 @@ ul {
     padding: 0;
     margin: 0;
     /*Add your code here*/
+    display: flex;
 }
 
 li {
@@ -21,4 +22,5 @@ li {
     color: #fff;
     padding: .5em;
     /*Add your code here*/
+    width: 100%;
 }

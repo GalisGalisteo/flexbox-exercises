@@ -12,6 +12,9 @@ body {
     width: 400px;
     height: 300px;
     /*Add your code here*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .child {
@@ -20,4 +23,6 @@ body {
     padding: .5em;
     width: 150px;
     /*Add your code here*/
+    height: fit-content;
+
 }

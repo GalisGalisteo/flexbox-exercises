@@ -12,6 +12,9 @@ ul {
     padding: 0;
     margin: 0;
     /*Add your code here*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 li {
@@ -22,4 +25,5 @@ li {
     padding: .5em;
     margin: .5em;
     /*Add your code here*/
+    flex: auto;
 }
